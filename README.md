@@ -52,9 +52,10 @@ The objective of this project is to analyze customer churn data and develop an i
 ---
 
 ## 🎯 Dashboard Preview
-> Add screenshots of your dashboard here.
+<img width="793" height="439" alt="image" src="https://github.com/user-attachments/assets/cc2036ec-f928-45b4-bdbf-503b587a525c" />
 
----
+
+
 
 ## 🚀 Conclusion
 This dashboard provides valuable insights into customer churn by combining interactive visualizations with key business metrics. It enables stakeholders to identify churn patterns, understand customer behavior, and develop effective retention strategies based on data-driven insights.
