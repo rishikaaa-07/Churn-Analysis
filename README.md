@@ -1,33 +1,60 @@
-# Churn-Analysis
+# 📊 Customer Churn Analysis Dashboard
 Customer Churn Analysis Dashboard built using Power BI to analyze customer retention, identify churn patterns, and provide actionable business insights through interactive visualizations and KPIs
-##Project Objective
 
-The objective of this project is to analyze customer churn data and build an interactive Power BI dashboard that helps identify churn patterns, understand customer behavior, and support data-driven decisions for improving customer retention. The dashboard enables stakeholders to monitor key metrics, uncover trends, and identify high-risk customer segments.
+## 📌 Project Objective
+The objective of this project is to analyze customer churn data and develop an interactive **Power BI dashboard** that helps businesses understand customer behavior, identify churn patterns, and make data-driven decisions to improve customer retention. The dashboard provides key insights through visualizations, KPIs, and interactive filters.
 
-##Features
-Interactive Power BI dashboard with dynamic filters and slicers.
-Customer churn rate and retention analysis.
-Customer segmentation by demographics and account information.
-Revenue and subscription insights.
-Monthly and overall churn trend visualization.
-Key Performance Indicators (KPIs) for customers, churn, and retention.
-Drill-down capabilities for detailed analysis.
-User-friendly and visually appealing dashboard design.
-##Key Insights
-Identified customer groups with the highest likelihood of churning.
-Analyzed how contract type influences customer retention.
-Compared churn across different payment methods and services.
-Examined the relationship between customer tenure and churn.
-Measured the impact of churn on overall revenue.
-Highlighted trends that can help businesses improve customer retention strategies.
-##Business Questions Answered
-What is the overall customer churn rate?
-Which customer segments have the highest churn?
-How does customer tenure affect churn?
-Which contract type experiences the most customer churn?
-Which payment methods are associated with higher churn rates?
-How does monthly spending differ between churned and retained customers?
-Which services are most commonly used by customers who churn?
-What is the revenue impact of customer churn?
-Which customer demographics are more likely to churn?
-What insights can help improve customer retention and reduce churn?
+---
+
+## ✨ Features
+- Interactive Power BI dashboard with dynamic filters and slicers.
+- Customer churn rate and retention analysis.
+- Customer segmentation based on demographics and account information.
+- Revenue and subscription analysis.
+- Churn trends over time.
+- Key Performance Indicators (KPIs) for customers, churn, and retention.
+- Drill-through and detailed data exploration.
+- Clean and user-friendly dashboard design.
+
+---
+
+## 📈 Key Insights
+- Identified customer segments with the highest churn rates.
+- Customers with month-to-month contracts showed higher churn.
+- Longer customer tenure was associated with lower churn rates.
+- Certain payment methods had higher churn percentages.
+- Customer churn contributed significantly to revenue loss.
+- Service usage patterns helped identify high-risk customers.
+
+---
+
+## ❓ Business Questions Answered
+- What is the overall customer churn rate?
+- Which customer segments have the highest churn?
+- How does customer tenure impact churn?
+- Which contract types experience the highest churn?
+- Which payment methods are associated with higher churn?
+- How does monthly spending differ between churned and retained customers?
+- Which services are most commonly used by customers who churn?
+- What is the revenue impact of customer churn?
+- Which demographic groups are more likely to churn?
+- What strategies can help reduce customer churn?
+
+---
+
+## 🛠️ Tools & Technologies
+- **Power BI**
+- **Power Query**
+- **DAX**
+- **Excel / CSV**
+- **Data Visualization**
+
+---
+
+## 🎯 Dashboard Preview
+> Add screenshots of your dashboard here.
+
+---
+
+## 🚀 Conclusion
+This dashboard provides valuable insights into customer churn by combining interactive visualizations with key business metrics. It enables stakeholders to identify churn patterns, understand customer behavior, and develop effective retention strategies based on data-driven insights.
