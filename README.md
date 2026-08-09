@@ -52,8 +52,9 @@ The objective of this project is to analyze customer churn data and develop an i
 ---
 
 ## 🎯 Dashboard Preview
-<img width="793" height="439" alt="image" src="https://github.com/user-attachments/assets/cc2036ec-f928-45b4-bdbf-503b587a525c" />
+# Blinkit Sales Dashboard
 
+![Dashboard Preview](images/img1.png)
 
 
 
